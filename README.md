@@ -35,3 +35,6 @@ Búsqueda de cuerpos celestes usando técnicas de Machine Learning
 - Ejecutar jupyter lab/notebook.
 - Iniciar script de ejecución por bandeja de código.
 
+### Fuente de desarrollo original:
+
+- https://github.com/DotPin/T_INFO257.git
