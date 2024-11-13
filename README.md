@@ -16,7 +16,7 @@ Búsqueda de cuerpos celestes usando técnicas de Machine Learning
 
 ### Requisitos:
 
-- Sistema operativo conpatible
+- Sistema operativo compatible
 - Contar con herramienta terminal.
 - Contar con navegador compatible.
 
